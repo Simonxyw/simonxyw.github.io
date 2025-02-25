@@ -34,24 +34,26 @@ Work Experience
 
 Teaching Experience
 ======
-* **Oct 2024 - Dec 2024**: Graduate Student Instructor, University of Michigan (CMPLXSYS 251 - Computational Social Sciences)  
+* **Oct 2024 - Dec 2024**: Graduate Student Instructor, University of Michigan
+  * **Course:CMPLXSYS 251 - Computational Social Sciences**
   * Led 20 hours of sessions per week covering topics in data analysis, visualization, and machine learning in Python  
   * Designed syllabus content, created lab assignments, and graded research projects for over 20 students  
 
-* **Aug 2024 - Oct 2024**: Graduate Teaching Assistant, Michigan Ross School of Business (STRATEGY 682 - Mergers, Acquisitions, and Corporate Development)  
+* **Aug 2024 - Oct 2024**: Graduate Teaching Assistant, Michigan Ross School of Business
+  * **STRATEGY 682 - Mergers, Acquisitions, and Corporate Development**
   * Managed attendance and participation tracking for 60+ students  
   * Collaborated with faculty and TAs to coordinate schedules and resolve conflicts efficiently  
 
 Research Experience
 ======
 * **Sept 2024 - Present**: Research Assistant, University of Wisconsin-Madison
-* **Mentor: Prof. Song Gao**
+  * **Mentor: Prof. Song Gao**
   * **Project:** Exploring the Spatiotemporal Dynamics in COVID-19 Infections
   * Conducting spatiotemporal analysis of COVID-19 using Structural Equation Modeling (SEM)  
   * Developed time-lagged models identifying mobility-contact correlations with case surges  
 
 * **Sept 2022 - May 2023**: Undergraduate Researcher, University of Michigan
-* **Mentor: Dr. Johannes U. Lange**
+  * **Mentor: Dr. Johannes U. Lange**
   * **Project:** Quantifying Gravitational Lensing Contribution from Dark Matter Subhalos: TNG300 hydrodynamical Simulation via Python  
 
 Publications
