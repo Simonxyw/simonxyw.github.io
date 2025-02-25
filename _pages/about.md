@@ -1,4 +1,4 @@
----
+h---
 permalink: /
 title: "About me"
 author_profile: true
@@ -13,4 +13,4 @@ I am particularly fascinated by how geospatial technologies and data science can
 
 Beyond academics and research, I have a longstanding love for Cantopop (over 10 years!) and enjoy exploring cafés (always on the lookout for the perfect cup of espresso).
 
-I am actively seeking opportunities to apply geospatial data science for real-world impact, whether in environmental sustainability, public policy, civic analytics, or urban development. If you're interested in collaborating or discussing potential opportunities, feel free to connect!
+I am actively seeking opportunities to apply geospatial data science for real-world impact, whether in environmental sustainability, public policy, civic analytics, or urban development. If you're interested in collaborating or discussing potential opportunities, feel free to reach out!
