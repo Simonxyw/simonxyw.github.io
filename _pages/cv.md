@@ -11,54 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, University of Michigan, 2026 (expected)
+* B.S. in Economics, minor in Data Science, University of Michigan, 2024
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Jan 2025 - Present**: Academic Coach, University of Michigan  
+  * Delivered individualized and group academic coaching to enhance learning strategies and stress management  
+  * Developed workshops and initiatives to foster student engagement and academic success  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Jul 2023 - Present**: ITS Tech Consultant, University of Michigan IT Services  
+  * Provided hands-on and remote technical support for 50+ departments on campus  
+  * Contributed to cross-functional teams, delivering complex technical solutions to 1000+ users  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Jun 2024 - Jul 2024**: Data Development Intern, ZhongAn Insurance  
+  * Assisted in backend architecture development for the marketing cloud’s data tracking analysis platform  
+  * Optimized data management systems using Apache Airflow  
+
+* **May 2023 - Jun 2023**: Data Development Engineer Intern, Terminus Tech (Alibaba Group)  
+  * Facilitated lifecycle management of data from extraction to insights delivery using Dataphin and QuickBI  
+  * Streamlined data delivery via Docker and PowerBI for business decision-making
+
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Oct 2024 - Dec 2024**: Graduate Student Instructor, University of Michigan (CMPLXSYS 251 - Computational Social Sciences)  
+  * Led 20 hours of sessions per week covering topics in data analysis, visualization, and machine learning in Python  
+  * Designed syllabus content, created lab assignments, and graded research projects for over 20 students  
+
+* **Aug 2024 - Oct 2024**: Graduate Teaching Assistant, Michigan Ross School of Business (STRATEGY 682 - Mergers, Acquisitions, and Corporate Development)  
+  * Managed attendance and participation tracking for 60+ students  
+  * Collaborated with faculty and TAs to coordinate schedules and resolve conflicts efficiently  
+
+Research Experience
+======
+* **Sept 2024 - Present**: Research Assistant, University of Wisconsin-Madison
+* **Mentor: Prof. Song Gao**
+  * **Project:** Exploring the Spatiotemporal Dynamics in COVID-19 Infections
+  * Conducting spatiotemporal analysis of COVID-19 using Structural Equation Modeling (SEM)  
+  * Developed time-lagged models identifying mobility-contact correlations with case surges  
+
+* **Sept 2022 - May 2023**: Undergraduate Researcher, University of Michigan
+* **Mentor: Dr. Johannes U. Lange**
+  * **Project:** Quantifying Gravitational Lensing Contribution from Dark Matter Subhalos: TNG300 hydrodynamical Simulation via Python  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Wu, X., & Gao, S. (2025, Accepted).** Exploring the Spatiotemporal Dynamics in COVID-19 Infections: A Structural Equation Modeling Approach to Human Mobility and Contact Patterns in New York State. *GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*  
+
+* **Li, J., Wu, X., Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2024, Under Review).** Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*  
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Programming & Data Tools:** Python, C++, R, SQL, Stata, Git, HTML, Django, PowerBI, Microsoft Suite  
+* **Geospatial & Data Science:** ArcGIS, Spatial Analysis, Machine Learning, Structural Equation Modeling (SEM), Data Visualization  
+* **Software & Cloud Tools:** Apache Airflow, Dataphin, Docker  
+
