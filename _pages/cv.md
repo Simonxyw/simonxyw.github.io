@@ -35,12 +35,12 @@ Work Experience
 Teaching Experience
 -----
 * **Oct 2024 - Dec 2024**: Graduate Student Instructor, University of Michigan
-  * **Course:CMPLXSYS 251 - Computational Social Sciences**
+  * **Course: CMPLXSYS 251 - Computational Social Sciences**
   * Led 20 hours of sessions per week covering topics in data analysis, visualization, and machine learning in Python  
   * Designed syllabus content, created lab assignments, and graded research projects for over 20 students  
 
 * **Aug 2024 - Oct 2024**: Graduate Teaching Assistant, Michigan Ross School of Business
-  * **STRATEGY 682 - Mergers, Acquisitions, and Corporate Development**
+  * **Course: STRATEGY 682 - Mergers, Acquisitions, and Corporate Development**
   * Managed attendance and participation tracking for 60+ students  
   * Collaborated with faculty and TAs to coordinate schedules and resolve conflicts efficiently  
 
