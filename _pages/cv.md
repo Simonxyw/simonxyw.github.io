@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 * M.S. in Data Science, University of Michigan, 2026 (expected)
 * B.S. in Economics, minor in Data Science, University of Michigan, 2024
 
