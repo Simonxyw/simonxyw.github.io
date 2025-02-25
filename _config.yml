@@ -22,7 +22,7 @@ repository               : "simonxyw.github.io.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo.jpeg"
+  avatar           : "images/Photo.jpeg"
   name             : "Xinyu (Simon) Wu" 
   bio              : "Master's Student in Data Science at the University of Michigan"
   location         : "Ann Arbor, Michigan"
