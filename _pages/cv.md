@@ -64,6 +64,6 @@ Teaching Experience
 Skills
 -----
 * **Programming & Data Tools:** Python, C++, R, SQL, Stata, Git, HTML, Django, PowerBI, Microsoft Suite  
-* **Geospatial & Data Science:** ArcGIS, Spatial Analysis, Machine Learning, Structural Equation Modeling (SEM), Data Visualization  
+* **Geospatial & Data Science:** ArcGIS, Spatial Analysis, Machine Learning
 * **Software & Cloud Tools:** Apache Airflow, Dataphin, Docker  
 
