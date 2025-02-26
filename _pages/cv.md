@@ -14,6 +14,24 @@ Education
 * M.S. in Data Science, University of Michigan, 2026 (expected)
 * B.S. in Economics, minor in Data Science, University of Michigan, 2024
 
+Research Experience
+-----
+* **Sept 2024 - Present**: Research Assistant, University of Wisconsin-Madison
+  * **Mentor: Prof. Song Gao**
+  * **Project:** Exploring the Spatiotemporal Dynamics in COVID-19 Infections
+  * Conducting spatiotemporal analysis of COVID-19 using Structural Equation Modeling (SEM)  
+  * Developed time-lagged models identifying mobility-contact correlations with case surges  
+
+* **Sept 2022 - May 2023**: Undergraduate Researcher, University of Michigan
+  * **Mentor: Dr. Johannes U. Lange**
+  * **Project:** Quantifying Gravitational Lensing Contribution from Dark Matter Subhalos: TNG300 hydrodynamical Simulation via Python  
+
+Working Papers
+-----
+* **Wu, X., & Gao, S. (2025, Accepted).** Exploring the Spatiotemporal Dynamics in COVID-19 Infections: A Structural Equation Modeling Approach to Human Mobility and Contact Patterns in New York State. *GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*  
+
+* **Li, J., Wu, X., Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2024, Under Review).** Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
+
 Work Experience
 -----
 * **Jan 2025 - Present**: Academic Coach, University of Michigan  
@@ -41,26 +59,7 @@ Teaching Experience
 
 * **Aug 2024 - Oct 2024**: Graduate Teaching Assistant, Michigan Ross School of Business
   * **Course: STRATEGY 682 - Mergers, Acquisitions, and Corporate Development**
-  * Managed attendance and participation tracking for 60+ students  
-  * Collaborated with faculty and TAs to coordinate schedules and resolve conflicts efficiently  
 
-Research Experience
------
-* **Sept 2024 - Present**: Research Assistant, University of Wisconsin-Madison
-  * **Mentor: Prof. Song Gao**
-  * **Project:** Exploring the Spatiotemporal Dynamics in COVID-19 Infections
-  * Conducting spatiotemporal analysis of COVID-19 using Structural Equation Modeling (SEM)  
-  * Developed time-lagged models identifying mobility-contact correlations with case surges  
-
-* **Sept 2022 - May 2023**: Undergraduate Researcher, University of Michigan
-  * **Mentor: Dr. Johannes U. Lange**
-  * **Project:** Quantifying Gravitational Lensing Contribution from Dark Matter Subhalos: TNG300 hydrodynamical Simulation via Python  
-
-Publications
------
-* **Wu, X., & Gao, S. (2025, Accepted).** Exploring the Spatiotemporal Dynamics in COVID-19 Infections: A Structural Equation Modeling Approach to Human Mobility and Contact Patterns in New York State. *GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*  
-
-* **Li, J., Wu, X., Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2024, Under Review).** Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*  
 
 Skills
 -----
