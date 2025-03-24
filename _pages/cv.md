@@ -18,9 +18,9 @@ Research Experience
 -----
 * **Sept 2024 - Present**: Research Assistant, University of Wisconsin-Madison
   * **Mentor: Prof. Song Gao**
-  * **Project:** Exploring the Spatiotemporal Dynamics in COVID-19 Infections
-  * Conducting spatiotemporal analysis of COVID-19 using Structural Equation Modeling (SEM)  
-  * Developed time-lagged models identifying mobility-contact correlations with case surges  
+  * **Project:** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State.
+  * Conducting spatiotemporal analysis of COVID-19 using an integrative analytical framework that includes Ordinary Least Squares (OLS) regression, Bayesian Change Point Analysis, and Geographically Weighted Regression (GWR)  
+  * Developed time-lagged models revealing contact behavior as a stronger predictor of case surges than mobility, highlighting socio-economic and urban-rural disparities in transmission patterns 
 
 * **Sept 2022 - May 2023**: Undergraduate Researcher, University of Michigan
   * **Mentor: Dr. Johannes U. Lange**
@@ -28,7 +28,7 @@ Research Experience
 
 Working Papers
 -----
-* **Wu, X., & Gao, S. (2025, Accepted).** Exploring the Spatiotemporal Dynamics in COVID-19 Infections: A Structural Equation Modeling Approach to Human Mobility and Contact Patterns in New York State. *GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*  
+* **Wu, X., & Gao, S. (2025, Accepted).** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State. *GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*  
 
 * **Li, J., Wu, X., Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2024, Under Review).** Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
 
