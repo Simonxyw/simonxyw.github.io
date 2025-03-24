@@ -19,8 +19,8 @@ Research Experience
 * **Sept 2024 - Present**: Research Assistant, University of Wisconsin-Madison
   * **Mentor: Prof. Song Gao**
   * **Project:** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State.
-  * Conducting spatiotemporal analysis of COVID-19 using an integrative analytical framework that includes Ordinary Least Squares (OLS) regression, Bayesian Change Point Analysis, and Geographically Weighted Regression (GWR)  
-  * Developed time-lagged models revealing contact behavior as a stronger predictor of case surges than mobility, highlighting socio-economic and urban-rural disparities in transmission patterns 
+    * Conducting spatiotemporal analysis of COVID-19 using an integrative analytical framework that includes Ordinary Least Squares (OLS) regression, Bayesian Change Point Analysis, and Geographically Weighted Regression (GWR)  
+    * Developed time-lagged models revealing contact behavior as a stronger predictor of case surges than mobility, highlighting socio-economic and urban-rural disparities in transmission patterns 
 
 * **Sept 2022 - May 2023**: Undergraduate Researcher, University of Michigan
   * **Mentor: Dr. Johannes U. Lange**
