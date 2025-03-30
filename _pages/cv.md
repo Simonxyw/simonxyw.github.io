@@ -28,7 +28,7 @@ Research Experience
 
 Publications & Presentations
 -----
-* **Wu, X., & Gao, S. (2025, Oral Presentation).** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State. *GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*  
+* **Wu, X., & Gao, S. (March 2025).** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State. *Oral Presentation at GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.* 
 
 * **Li, J., Wu, X., Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2024, Under Review).** Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
 
