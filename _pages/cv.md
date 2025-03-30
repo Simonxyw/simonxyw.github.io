@@ -26,9 +26,9 @@ Research Experience
   * **Mentor: Dr. Johannes U. Lange**
   * **Project:** Quantifying Gravitational Lensing Contribution from Dark Matter Subhalos: TNG300 hydrodynamical Simulation via Python  
 
-Working Papers
+Publications & Presentations
 -----
-* **Wu, X., & Gao, S. (2025, Accepted).** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State. *GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*  
+* **Wu, X., & Gao, S. (2025, Oral Presentation).** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State. *GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*  
 
 * **Li, J., Wu, X., Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2024, Under Review).** Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
 
