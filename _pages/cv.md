@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 -----
-* M.S. in Data Science, University of Michigan, 2026 (expected)
+* M.S. in Data Science, with a certificate in Spatial Data Analysis, University of Michigan, 2026 (expected)
 * B.S. in Economics, minor in Data Science, University of Michigan, 2024
 
 Research Experience
