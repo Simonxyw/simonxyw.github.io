@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 -----
-* M.S. in Data Science, with a certificate in Spatial Data Analysis, University of Michigan, 2026 (expected) (GPA: 3.84/4)
-* B.S. in Economics, minor in Data Science, University of Michigan, 2024 (GPA: 3.7/4)
+* M.S. in Data Science, with a certificate in Spatial Data Analysis, University of Michigan, 2026 (expected)
+  * GPA: 3.84/4
+* B.S. in Economics, minor in Data Science, University of Michigan, 2024
+  * GPA: 3.7/4
 
 Working Papers & Presentations
 -----
 
-* **Li, J., Wu, X., Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2025, Under Review).** Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
+* Li, J., *Wu, X.*, Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2025, under review). Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
 
-* **Chen, D., Li, P., Zhang, C., Lu, X., Lang, Y., & Wu, X. (2025, Under Review).** Understanding policy instrument choices in China’s urban built-up land intensive use: A dynamic configurational-based perspective. *Humanities & Social Sciences Communications.*
+* Chen, D., Li, P., Zhang, C., Lu, X., Lang, Y., & *Wu, X.* (2025, under review). Understanding policy instrument choices in China’s urban built-up land intensive use: A dynamic configurational-based perspective. *Humanities & Social Sciences Communications.*
 
-* **Li, J., Ma, M., Wu, X., Chen, D., Qiao, Y., Li, B., Jiao, L.*, & Liu, Y. (2025, Under Review).** International comparisons reveal that the impact of urban form on carbon emissions has been underestimated and oversimplified. *Communications Earth & Environment.*
+* Li, J., Ma, M., *Wu, X.*, Chen, D., Qiao, Y., Li, B., Jiao, L., & Liu, Y. (2025, under review). International comparisons reveal that the impact of urban form on carbon emissions has been underestimated and oversimplified. *Communications Earth & Environment.*
 
-* **Wu, X., & Li, J. (2025, In Preparation).** Do low-carbon policies necessarily reduce emissions? Evidence from multi-level policy intensity and instrument types in Chinese cities.
+* *Wu, X.*, & Li, J. (2025, in preparation). Do low-carbon policies necessarily reduce emissions? Evidence from multi-level policy intensity and instrument types in Chinese cities.
 
-* **Wu, X., & Gao, S. (March 2025).** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State. *Oral Presentation at GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*
+* *Wu, X.*, & Gao, S. (March 2025). Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State. *Oral presentation at the GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*
 
 Research Experience
 -----
@@ -80,10 +82,15 @@ Teaching Experience
 * **Aug. 2024 - Oct. 2024**: Graduate Teaching Assistant, Michigan Ross School of Business
   * **Course: STRATEGY 682 - Mergers, Acquisitions, and Corporate Development** (Fall A 2024)
 
-
 Skills
 -----
 * **Programming & Data Tools:** Python, C++, R, SQL, Stata, Git, HTML, Django, PowerBI, Microsoft Suite  
 * **Geospatial & Data Science:** ArcGIS, Spatial Analysis, Machine Learning
 * **Software & Cloud Tools:** Apache Airflow, Dataphin, Docker  
 
+Awards & Scholarships
+-----
+* Rackham Conference Travel Grant - $900 (AAG 2025 in Detroit, MI)
+* Undergraduate University Honors (2024)
+* Undergraduate University Honors (2023)
+* Undergraduate University Honors (2022)
