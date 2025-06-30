@@ -54,7 +54,7 @@ Research Experience
 
 * **Sept. 2022 - May 2023**: Undergraduate Researcher, University of Michigan
   * **Mentor: Dr. Johannes U. Lange**
-  * **Project:** Quantifying Gravitational Lensing Contribution from Dark Matter Subhalos: TNG300 hydrodynamical Simulation via Python  
+  * **Project:** Quantifying Gravitational Lensing Contribution from Dark Matter Subhalos: TNG300 hydrodynamical Simulation via Python.
 
 Work Experience
 -----
