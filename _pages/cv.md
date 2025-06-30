@@ -13,8 +13,10 @@ Education
 -----
 * M.S. in Data Science, with a certificate in Spatial Data Analysis, University of Michigan, 2026 (expected)
   * GPA: 3.84/4
+  * Courses: Data Structures and Algorithms, Regression and Data Analysis, Principles of GIS, Database Application.
 * B.S. in Economics, minor in Data Science, University of Michigan, 2024
   * GPA: 3.7/4
+  * Courses: Foundations of Comp Sci, Linear Algebra, Advanced Calculus, Partial Differential Equations, Intermediate Microeconomics/Macroeconomics.
 
 Working Papers & Presentations
 -----
