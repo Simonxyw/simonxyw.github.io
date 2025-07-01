@@ -26,11 +26,11 @@ Working Papers & Presentations
 
 * Li, J., *Wu, X.*, Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2025, under review). Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
 
-* Chen, D., Li, P., Zhang, C., Lu, X., Lang, Y., & *Wu, X.* (2025, under review). Understanding policy instrument choices in China’s urban built-up land intensive use: A dynamic configurational-based perspective. *Humanities & Social Sciences Communications.*
+* Chen, D., Li, P., Zhang, C., Lu, X., Lang, Y., & *Wu, X.* (2025, under review). Understanding policy instrument choices in China’s urban built-up land intensive use: A dynamic configurational-based perspective. *Land Use Policy.*
 
 * Li, J., Ma, M., *Wu, X.*, Chen, D., Qiao, Y., Li, B., Jiao, L., & Liu, Y. (2025, under review). International comparisons reveal that the impact of urban form on carbon emissions has been underestimated and oversimplified. *Communications Earth & Environment.*
 
-* *Wu, X.*, & Li, J. (2025, in preparation). Do low-carbon policies necessarily reduce emissions? Evidence from multi-level policy intensity and instrument types in Chinese cities.
+* *Wu, X.*, & Li, J. (2025, in preparation). Do low-carbon policies truly reduce emissions? Multi-Level and multi-instrument evidence from China.
 
 * *Wu, X.*, & Gao, S. (March 2025). Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State. *Oral presentation at the GeoAI and Deep Learning Symposium: Social Sensing and GeoAI for Public Health, AAG Annual Meeting.*
 
