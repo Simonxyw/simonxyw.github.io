@@ -6,11 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi! I’m Xinyu (Simon) Wu, a Master’s student in Data Science at the University of Michigan with a concentration in Spatial Data Analysis. My work sits at the intersection of Geospatial Data Science and Sustainability, where I explore how spatial technologies and data-driven methods can support equitable development and environmental decision-making.
 
-Hi! I'm Xinyu (Simon) Wu, a Master's student in Data Science at the University of Michigan, with a deep passion for Geospatial Data Science, Urban Informatics, and Sustainability. My academic and research background spans spatial data analysis, GIS, and policy analytics, with a keen interest in leveraging data-driven insights to improve urban planning, environmental sustainability, and equitable development.
+My academic and research journey has led me to:
 
-I am particularly fascinated by how geospatial technologies and data science can inform policy, enhance civic analytics, and optimize land use planning. My previous internship experiences include working with large-scale spatial datasets, predictive modeling, and data visualization, helping organizations transform raw data into actionable insights for decision-making.
+- Integrate spatial, policy, and agronomic datasets to inform sustainable agriculture and air quality interventions in India.
 
-Beyond academics and research, I have a longstanding love for Cantopop (over 10 years!) and enjoy exploring cafés (always on the lookout for the perfect cup of espresso).
+- Apply machine learning, econometric, and causal inference techniques to evaluate urban form, carbon emissions, and low-carbon policy effectiveness in China.
 
-I am actively seeking opportunities to apply geospatial data science for real-world impact, whether in environmental sustainability, public policy, civic analytics, or urban development. If you're interested in collaborating or discussing potential opportunities, feel free to reach out!
+- Conduct spatiotemporal analyses on public health topics, including COVID-19 transmission dynamics, using advanced statistical and geospatial methods.
+
+I have hands-on experience working with large-scale spatial datasets, machine learning models, and GIS platforms (ArcGIS, Python, SQL), and I am passionate about translating complex data into actionable insights for real-world impact.
+
+Outside of research, I’ve been a devoted Cantopop enthusiast for over a decade and love discovering hidden-gem cafés in my free time.
+
+I am currently looking for opportunities where I can apply geospatial data science and policy analysis to tackle challenges in sustainability, public policy, urban development, and civic analytics. Feel free to reach out if you’d like to connect or collaborate!
