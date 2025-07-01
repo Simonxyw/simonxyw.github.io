@@ -18,6 +18,6 @@ My academic and research journey has led me to:
 
 I have hands-on experience working with large-scale spatial datasets, machine learning models, and GIS platforms (ArcGIS, Python, SQL), and I am passionate about translating complex data into actionable insights for real-world impact.
 
-Outside of research, I’ve been a devoted Cantopop enthusiast for over a decade and love discovering hidden-gem cafés in my free time.
+Outside of research, I’ve been a devoted Cantopop enthusiast for over a decade. I also love discovering hidden-gem cafés in my free time. (Espresso only!)
 
 I am currently looking for opportunities where I can apply geospatial data science and policy analysis to tackle challenges in sustainability, public policy, urban development, and civic analytics. Feel free to reach out if you’d like to connect or collaborate!
