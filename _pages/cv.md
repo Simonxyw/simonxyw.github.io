@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[📄 Download my CV here]([https://drive.google.com/your-cv-link](https://drive.google.com/file/d/1xU4DEVQAFAcR-ZVvgzMGqiq22Pcd90Fr/view?usp=sharing))  
+
+
 Education
 -----
 * M.S. in Data Science, with a certificate in Spatial Data Analysis, University of Michigan, 2026 (expected)
