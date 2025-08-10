@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 <br><br>
 [📄 Download my CV here](https://drive.google.com/file/d/1xU4DEVQAFAcR-ZVvgzMGqiq22Pcd90Fr/view?usp=sharing)  
 
