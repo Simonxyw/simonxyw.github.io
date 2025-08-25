@@ -60,11 +60,11 @@ Research Experience
 
 Work Experience
 -----
-* **Jan. 2025 - Present**: Academic Coach, University of Michigan  
+* **Jan. 2025 - May 2025**: Academic Coach, University of Michigan  
   * Delivered individualized and group academic coaching to enhance learning strategies and stress management  
   * Developed workshops and initiatives to foster student engagement and academic success  
 
-* **Jul. 2023 - Present**: ITS Tech Consultant, University of Michigan IT Services  
+* **Jul. 2023 - Aug. 2025**: ITS Tech Consultant, University of Michigan IT Services  
   * Provided hands-on and remote technical support for 50+ departments on campus  
   * Contributed to cross-functional teams, delivering complex technical solutions to 1000+ users  
 
@@ -78,10 +78,16 @@ Work Experience
 
 Teaching Experience
 -----
+
+* **Aug. 2025 – Present**: Graduate Student Instructor, University of Michigan
+  * **Course: CMPLXSYS 391 - Intro to Modeling Political Processes** (Instructor: Dr. David Sabin-Miller)
+  * Led discussion sections and provided individualized support to help students connect political science theory with mathematical models and computational programming
+  * Developed and guided problem-solving activities that bridged rational choice, game theory, and applied simulations, fostering interdisciplinary learning across diverse student backgrounds
+
 * **Oct. 2024 - Dec. 2024**: Graduate Student Instructor, University of Michigan
-  * **Course: CMPLXSYS 251 - Computational Social Sciences** (Fall 2024)
+  * **Course: CMPLXSYS 251 - Computational Social Sciences** 
   * Led 20 hours of sessions per week covering topics in data analysis, visualization, and machine learning in Python  
-  * Designed syllabus content, created lab assignments, and graded research projects for over 20 students  
+  * Designed syllabus content, created lab assignments, and graded research projects for over 20 students under collaboration  
 
 * **Aug. 2024 - Oct. 2024**: Graduate Teaching Assistant, Michigan Ross School of Business
   * **Course: STRATEGY 682 - Mergers, Acquisitions, and Corporate Development** (Fall A 2024)
