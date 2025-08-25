@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Xinyu (Simon) Wu, a Master’s student in Data Science at the University of Michigan with a concentration in Spatial Data Analysis. My work sits at the intersection of Geospatial Data Science and Sustainability, where I explore how spatial technologies and data-driven methods can support equitable development and environmental decision-making.
+Hi! I’m Xinyu (Simon) Wu, a Master’s student in Data Science at the University of Michigan with a concentration in Spatial Data Analysis. My research focuses on how land use and land use policy shape carbon emissions, cropland loss, and broader sustainability risks, and how data-driven methods can support more resilient and equitable agricultural and environmental futures.
 
 My academic and research journey has led me to:
 
@@ -18,6 +18,6 @@ My academic and research journey has led me to:
 
 I have hands-on experience working with large-scale spatial datasets, machine learning models, and GIS platforms (ArcGIS, Python, SQL), and I am passionate about translating complex data into actionable insights for real-world impact.
 
-Outside of research, I’ve been a devoted Cantopop enthusiast for over a decade. I also love discovering hidden-gem cafés in my free time. (Espresso only!)
+Outside of research, I’ve been a devoted Cantopop enthusiast for over a decade. I also love discovering hidden-gem cafés in my free time.
 
-I am currently looking for opportunities where I can apply geospatial data science and policy analysis to tackle challenges in sustainability, public policy, urban development, and civic analytics. Feel free to reach out if you’d like to connect or collaborate!
+I am currently seeking opportunities to pursue a PhD for Fall 2026 and expand my work at the intersection of land use, climate policy, and carbon emissions, while remaining open to exploring diverse questions in sustainability and environmental data science. Feel free to reach out if you’d like to connect or collaborate!
