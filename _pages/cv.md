@@ -85,12 +85,12 @@ Teaching Experience
   * Developed and guided problem-solving activities that bridged rational choice, game theory, and applied simulations, fostering interdisciplinary learning across diverse student backgrounds
 
 * **Oct. 2024 - Dec. 2024**: Graduate Student Instructor, University of Michigan
-  * **Course: CMPLXSYS 251 - Computational Social Sciences** 
+  * **Course: CMPLXSYS 251 - Computational Social Sciences** (Instructor: Prof. Victor Liu)
   * Led 20 hours of sessions per week covering topics in data analysis, visualization, and machine learning in Python  
   * Designed syllabus content, created lab assignments, and graded research projects for over 20 students under collaboration  
 
 * **Aug. 2024 - Oct. 2024**: Graduate Teaching Assistant, Michigan Ross School of Business
-  * **Course: STRATEGY 682 - Mergers, Acquisitions, and Corporate Development** (Fall A 2024)
+  * **Course: STRATEGY 682 - Mergers, Acquisitions, and Corporate Development** (Instructor: Prof. Brian Wu)
 
 Skills
 -----
