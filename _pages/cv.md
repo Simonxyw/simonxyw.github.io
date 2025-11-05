@@ -23,7 +23,9 @@ Education
 Working Papers & Presentations
 -----
 
-* Li, J., *Wu, X.*, Jiao, L., Chen, D., Lu, X., Zhu, J., & Jain, M. (2025, under review). Horizontal carbon compensation for cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
+* Li, J., *Wu, X.*, Jiao, L., Chen, D., Lu, X., Zhu, J., & Wan, Z. (2025). Horizontal carbon compensation for
+cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
+<ul> https://doi.org/10.1016/j.landusepol.2025.107820 <ul>
 
 * Chen, D., Li, P., Zhang, C., Lu, X., Lang, Y., & *Wu, X.* (2025, under review). Understanding policy instrument choices in China’s urban built-up land intensive use: A dynamic configurational-based perspective. *Land Use Policy.*
 
@@ -38,9 +40,11 @@ Research Experience
 * **Jun. 2025 - Present**: Research Assistant, University of Michigan
   * **Mentor: Prof. Meha Jain**
   * **Project:** Evaluating agricultural burning regulations and crop calendar decisions in Punjab and Haryana, India.
-    * Integrated high-resolution spatial, policy, and agronomic datasets to support targeted air quality and sustainable agriculture interventions.
-    * Designed and conducted causal analysis using a field-level satellite dataset to assess policy impacts.
-    * Applied machine learning models to identify key drivers of heterogeneous field-level responses to burning bans and policy incentives.
+    * Analyzed how monsoon variability and irrigation access influence residue burning and crop calendar deci-
+sions in northern India using high-resolution panel data.
+    * Integrated satellite, climate, and socio-economic datasets and applying fixed-effects and causal inference
+models to quantify behavioral and policy responses.
+    * Applied machine learning methods to identify spatial and socio-economic heterogeneity in adaptation.
 
 * **Dec. 2024 - Present**: Research Assistant, Wuhan University
   * **Project:** Low-carbon land use and policy effectiveness in China.
@@ -51,7 +55,8 @@ Research Experience
 * **Sept. 2024 - Apr. 2025**: Research Assistant, University of Wisconsin-Madison
   * **Mentor: Prof. Song Gao**
   * **Project:** Understanding the dynamic associations between COVID-19 infections and both human mobility and close contacts in New York State.
-    * Conducting spatiotemporal analysis of COVID-19 using an integrative analytical framework that includes Ordinary Least Squares regression, Bayesian Change Point Analysis, and Geographically Weighted Regression.
+    * Conducted spatiotemporal COVID-19 analysis using statistical regression methods, Bayesian Change Point
+Analysis, and spatially weighted models including GWR and GTWR.
     * Developed time-lagged models revealing contact behavior as a stronger predictor of case surges than mobility, highlighting socio-economic and urban-rural disparities in transmission patterns.
 
 * **Sept. 2022 - May 2023**: Undergraduate Researcher, University of Michigan
