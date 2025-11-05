@@ -24,8 +24,7 @@ Working Papers & Presentations
 -----
 
 * Li, J., *Wu, X.*, Jiao, L., Chen, D., Lu, X., Zhu, J., & Wan, Z. (2025). Horizontal carbon compensation for
-cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.*
-<ul> https://doi.org/10.1016/j.landusepol.2025.107820 <ul>
+cropland use: A policy tool for promoting the equitable utilization of cropland resources. *Land Use Policy.* <ul> https://doi.org/10.1016/j.landusepol.2025.107820 <ul>
 
 * Chen, D., Li, P., Zhang, C., Lu, X., Lang, Y., & *Wu, X.* (2025, under review). Understanding policy instrument choices in China’s urban built-up land intensive use: A dynamic configurational-based perspective. *Land Use Policy.*
 
