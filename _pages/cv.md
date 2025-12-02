@@ -45,7 +45,7 @@ sions in northern India using high-resolution panel data.
 models to quantify behavioral and policy responses.
     * Applied machine learning methods to identify spatial and socio-economic heterogeneity in adaptation.
 
-* **Dec. 2024 - Present**: Research Assistant, Wuhan University
+* **Sept. 2024 - Present**: Research Assistant, Wuhan University
   * **Project:** Low-carbon land use and policy effectiveness in China.
     * Applied econometric modeling and machine learning to analyze the impacts of urban form and policy configurations on emissions and land use patterns.
     * Integrated remote sensing data with statistical analysis to construct city-level carbon emission indicators and evaluate policy effectiveness.
